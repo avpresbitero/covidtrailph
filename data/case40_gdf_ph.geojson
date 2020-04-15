@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Longitude": 124.39099, "Latitude": 7.8475 }, "geometry": { "type": "Point", "coordinates": [ 124.39099, 7.8475 ] } }
+]
+}
